@@ -1,0 +1,12 @@
+# Preface {.unnumbered}
+
+This book documents my experience in planning, scheduling and packing optimization problems.
+
+I intend to cover the following problems:
+
+- Job shop scheduling
+- Driver scheduling
+- Bin packing
+- 3D bin packing
+
+All algorithms will be coded in Java.
